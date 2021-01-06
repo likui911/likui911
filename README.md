@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Vue.js/Spring
+- 🌱 I’m currently learning Vue.js
 
 ### My GitHub stats
 
